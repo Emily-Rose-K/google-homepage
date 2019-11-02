@@ -15,11 +15,11 @@
 }
 
 .searchbutton {
- text-align center;
+ text-align: center;
  display: inline-block;   
 }
 
 .logo {
-    text-align center;
+    text-align: center;
     display: inline-block; 
 }
