@@ -1,11 +1,15 @@
-.topnav-right{ 
- float: right;
+.topnav-left {
+    display: inline-block
 }
 
-.button {
-  background-color: red;
+.topnav-right {
+  float:right;
 }
 
-{
-background-color: black;
+.bottomnav-left {
+  display: inline-block
+}
+
+.bottomnav-right {
+  float:right;
 }
