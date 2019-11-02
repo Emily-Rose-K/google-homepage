@@ -1,0 +1,15 @@
+.topnav-left {
+    display: inline-block
+}
+
+.topnav-right {
+  float:right;
+}
+
+.bottomnav-left {
+  display: inline-block
+}
+
+.bottomnav-right {
+  float:right;
+}
