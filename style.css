@@ -14,7 +14,12 @@
   float:right;
 }
 
-body {
+.searchbutton {
  text-align center;
  display: inline-block;   
+}
+
+.logo {
+    text-align center;
+    display: inline-block; 
 }
