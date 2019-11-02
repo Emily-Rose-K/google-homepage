@@ -13,3 +13,8 @@
 .bottomnav-right {
   float:right;
 }
+
+body {
+ text-align center;
+ display: inline-block;   
+}
