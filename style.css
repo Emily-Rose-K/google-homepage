@@ -15,11 +15,14 @@
 }
 
 .searchbutton {
- text-align: center;
- display: inline-block;   
+  margin: auto;
+  width: 50%;
+  padding: 10px; 
 }
 
 .logo {
-    text-align: center;
-    display: inline-block; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
